@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Davizi
+- 👋 Olá, eu sou Davi Garcia
 - 🌱 Estou fazendo um curso no Alura ...
 <!---
 DavizinAlura/DavizinAlura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
